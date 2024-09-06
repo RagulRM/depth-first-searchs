@@ -58,7 +58,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 
 <h3>Program</h3>
 
-```p
+```python
 from collections import defaultdict
 
 def dfs(graph, start, visited, path):
